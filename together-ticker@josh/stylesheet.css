@@ -1,0 +1,14 @@
+/* DeepSeek Credit Ticker */
+.deepseek-ticker-label {
+    color: #4ade80;
+    font-weight: bold;
+    padding: 0 8px;
+}
+
+.deepseek-ticker-label.error {
+    color: #fb7185;
+}
+
+.deepseek-ticker-label.loading {
+    color: #a3a3a3;
+}

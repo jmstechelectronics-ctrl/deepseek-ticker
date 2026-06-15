@@ -1,0 +1,10 @@
+{
+  "name": "DeepSeek Credit Ticker",
+  "description": "Shows DeepSeek API credit balance in the top panel",
+  "uuid": "together-ticker@josh",
+  "shell-version": [
+    "42", "43", "44", "45", "46", "47"
+  ],
+  "version": 3,
+  "url": "https://github.com/jmstech/deepseek-ticker"
+}
